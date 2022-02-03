@@ -40,5 +40,5 @@ class FacebookInterface:
 
 if __name__=='__main__':
     FB = FacebookInterface()
-    token = FB.get_fb_user_access_token('testuser@gmail.com', 'test#user#1234')
+    token = FB.get_fb_user_access_token('testuser6534vcasgfsa@gmail.com', 'mychagepadssghsugeh')
     print token
